@@ -1,7 +1,7 @@
 package tema01.programar.en.java;
 
 /**
-* Segundo ejemplo del tema 01. Escribimos una línea de forma directa
+* Ejemplo 01.02. Escribimos una línea de forma directa
 *
 * @author JM Serrano
 * @version 1.0, 01/09/2020

@@ -1,7 +1,7 @@
 package tema01.programar.en.java;
 
 /**
-* Primer ejemplo del tema 01. Escribimos tres líneas, una de las cuales se 
+* Ejemplo 01.01. Escribimos tres líneas, una de las cuales se 
 * imprime a través del método mostrarMensaje()
 *
 * @author JM Serrano

@@ -1,7 +1,7 @@
-package tema01.programar.en.java;
+package tema01.programar.en.java.mas_ejemplos;
 
 /**
-* Ejemplo 03. Como es tradicional, el primer programa escrito en cualquier 
+* Ejemplo 01.03. Como es tradicional, el primer programa escrito en cualquier 
 * lenguaje que aprendamos, debe ser el "Hola, Mundo"
 * 
 * @author JM Serrano

@@ -1,7 +1,7 @@
-package tema01.programar.en.java;
+package tema01.programar.en.java.mas_ejemplos;
 
 /**
-* Ejemplo 04. Dibujamos un pequeño árbol
+* Ejemplo 01.04. Dibujamos un pequeño árbol
 * 
 * @author JM Serrano
 * @version 1.0, 21/09/2020
